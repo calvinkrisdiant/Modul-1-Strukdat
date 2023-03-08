@@ -1,0 +1,2 @@
+# latihan1strukdat
+Latihan
